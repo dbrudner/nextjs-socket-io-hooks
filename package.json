@@ -2,7 +2,7 @@
   "name": "with-socket.io",
   "version": "1.0.0",
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "isomorphic-unfetch": "^2.0.0",
     "next": "latest",
     "react": "^16.7.0",
